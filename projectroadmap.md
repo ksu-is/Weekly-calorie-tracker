@@ -14,6 +14,8 @@
 - Show highest and lowest calorie day
 - Compare to calorie goal
 
+## Code Research
+
 I explored a similar project on GitHub:
 https://github.com/ksu-is/Macro-Tracker
 
