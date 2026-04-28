@@ -11,3 +11,7 @@ print("Average calories:" , average)
 
 print("Highest:", max(calories)
 print("Lowest:", min(calories)
+
+with open("calories.txt", "w") as file:
+    for c in calories:
+        file.write(str(c) + "\n")
