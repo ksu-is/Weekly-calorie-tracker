@@ -4,3 +4,4 @@ days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sun
 calories = []
 
 total_calories = sum(calories)
+print("Total calories:", total_calories)
