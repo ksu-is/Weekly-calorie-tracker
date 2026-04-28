@@ -8,3 +8,6 @@ print("Total calories:", total_calories)
 
 average = total_calories / 7
 print("Average calories:" , average)
+
+print("Highest:", max(calories)
+print("Lowest:", min(calories)
