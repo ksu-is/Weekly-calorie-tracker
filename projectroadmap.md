@@ -1,5 +1,17 @@
 # Project Roadmap – Weekly Calorie Tracker
 
+## Sprint 2 Progress
+
+During Sprint 2, the functions of the Weekly Calorie Tracker were partaly created. The program is heading towards allowing users to input daily calorie data for an entire week and performs several calculations to provide useful insights.
+
+### Current Features that are being developed
+- User input for 7 days of calorie tracking
+- Total weekly calorie calculation
+- Average daily calorie calculation
+- Identification of highest and lowest calorie days
+- Calorie goal comparison for feedback
+- File storage to save weekly results
+
 ## Sprint 1 Goals
 - [x] Decide project idea
 - [x] Create GitHub repository
